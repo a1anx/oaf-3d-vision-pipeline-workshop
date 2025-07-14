@@ -83,7 +83,7 @@ are the locations I use personally:
       Replace the link to the original site:
 
       ```markdown
-      [https://github.com/a1anx/oaf-3d-vision-pipeline-workshop]
+      https://github.com/a1anx/oaf-3d-vision-pipeline-workshop
       ```
 
       with your GitHub Pages link:
@@ -97,7 +97,7 @@ are the locations I use personally:
       Replace all instances of:
 
       ``` bash
-      [a1anx/oaf-3d-vision-pipeline-workshop]
+      a1anx/oaf-3d-vision-pipeline-workshop
       ```
 
       with your user and repository name:
